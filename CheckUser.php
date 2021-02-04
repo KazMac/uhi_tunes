@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<!-- author, date, prject description-->
 <html>
 <head>
 	<title>UHI Tunes successful login</title>
